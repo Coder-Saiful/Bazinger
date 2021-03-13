@@ -1,0 +1,268 @@
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+    .openNav{
+        display: block;
+    }
+    .banner_text {
+        padding-top: 180px;
+        padding-bottom: 85px;
+    }
+    .banner_text h2 {
+        font-size: 40px;
+    }
+    .banner_text p {
+        font-size: 17px;
+    }
+    .banner_button a {
+        padding: 13px 35px;
+        margin-top: 30px;
+    }
+    .service_text {
+        margin-top: 50px;
+    }
+    .service_head p {
+        padding-bottom: 30px;
+    }
+    #service_part {
+        padding-top: 45px;
+        padding-bottom: 50px;
+    }
+    .gallery_head p {
+        padding-bottom: 35px;
+    }
+    #gallery_part {
+        padding-top: 45px;
+        padding-bottom: 60px;
+    }
+    .video_head h2 {
+        font-size: 40px;
+        margin-bottom: 32px;
+    }
+    #pricing_part {
+        padding: 45px 0px;
+    }
+    .pricing_head p{
+        margin-bottom: 55px;
+    }
+    .pricing_box2{
+        margin-top:50px;
+    }
+    .pricing_box3{
+        margin-top:50px;
+    }
+    .pricing_box2:hover{
+        margin-top:20px;
+    }
+    .pricing_box3:hover{
+        margin-top:20px;
+    }
+    #testimonial_part {
+        padding-top: 35px;
+        padding-bottom: 60px;
+    }
+    .download_text h2 {
+        font-size: 40px;
+    }
+    .download_text a {
+        font-size: 14px;
+        padding: 14px 22px;
+    }
+    #video_part {
+        padding-top: 45px;
+        padding-bottom: 60px;
+    }
+    .video_text i {
+        width: 80px;
+        height: 80px;
+        font-size: 35px;
+        line-height: 76px;
+    }
+    .testimonial_icon{
+        margin-right: 30px;
+    }
+    .testimonial_text {
+        padding-right: 15px;
+    }
+    #contact_part {
+        padding: 70px 0;
+    }
+    .footer_left p {
+        text-align: center;
+    }
+    .footer_right p{
+        text-align: center;
+        margin-top: 10px;
+    }
+    .navbar {
+        padding: 18px 15px;
+    }
+    .gallery_image img {
+        width: 100%;
+    }
+    .testimonial-slider {
+        width: 100%;
+        margin: 0;
+    }
+    .testimonial_icon {
+        margin-right: 0;
+        float: none;
+        margin: auto;
+    }
+    .testimonial_text {
+        padding-right: 0;
+    }
+    
+
+}
+
+
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+    .openNav{
+        display: block;
+    }
+    .banner_text {
+        padding-top: 180px;
+        padding-bottom: 85px;
+    }
+    .banner_text h2 {
+        font-size: 40px;
+    }
+    .banner_text p {
+        font-size: 17px;
+    }
+    .banner_button a {
+        padding: 13px 35px;
+        margin-top: 30px;
+    }
+    .service_text {
+        margin-top: 50px;
+    }
+    .service_head p {
+        padding-bottom: 30px;
+    }
+    #service_part {
+        padding-top: 45px;
+        padding-bottom: 50px;
+    }
+    .gallery_head p {
+        padding-bottom: 35px;
+    }
+    #gallery_part {
+        padding-top: 45px;
+        padding-bottom: 60px;
+    }
+    .video_head h2 {
+        font-size: 40px;
+        margin-bottom: 32px;
+    }
+    #pricing_part {
+        padding: 45px 0px;
+    }
+    .pricing_head p{
+        margin-bottom: 55px;
+    }
+    .pricing_box2{
+        margin-top:50px;
+    }
+    .pricing_box3{
+        margin-top:50px;
+    }
+    .pricing_box2:hover{
+        margin-top:20px;
+    }
+    .pricing_box3:hover{
+        margin-top:20px;
+    }
+    #testimonial_part {
+        padding-top: 35px;
+        padding-bottom: 60px;
+    }
+    .download_text h2 {
+        font-size: 40px;
+    }
+    .download_text a {
+        font-size: 14px;
+        padding: 14px 22px;
+    }
+    #video_part {
+        padding-top: 45px;
+        padding-bottom: 60px;
+    }
+    .testimonial_icon{
+        margin-right: 30px;
+    }
+    .testimonial_text {
+        padding-right: 15px;
+    }
+    #contact_part {
+        padding: 70px 0;
+    }
+    
+}
+
+
+
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+    .openNav{
+        display: block;
+    }
+    .banner_text {
+        padding-top: 250px;
+    }
+    .service_text {
+        margin-top: 50px;
+    }
+    .pricing_box2{
+        margin-top:50px;
+    }
+    .pricing_box3{
+        margin-top:50px;
+    }
+    .pricing_box2:hover{
+        margin-top:20px;
+    }
+    .pricing_box3:hover{
+        margin-top:20px;
+    }
+    
+}
+
+
+
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    .overlay{
+        display: none !important;
+    }
+
+}
+
+
+
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+    .overlay{
+        display: none !important;
+    }
+
+}
+
+
